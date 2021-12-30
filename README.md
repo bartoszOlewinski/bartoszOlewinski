@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartoszOlewinski
 - 👀 I’m interested in backend software development, ANNs and game development
-- 🌱 I’m currently learning Weka and Kotlin
+- 🌱 I’m currently learning Kotlin and Weka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - bao5@aber.ac.uk
 
