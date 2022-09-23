@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bartoszOlewinski
 - 👀 I’m interested in backend software development, ANNs and game development
-- 🌱 I’m currently learning C++ and Raycasting
+- 🌱 I’m currently learning more SFML 2.5.1
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - bao5@aber.ac.uk
+- 📫 How to reach me - bartosz.olewinski@gmail.com
 
 <!---
 bartoszOlewinski/bartoszOlewinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
