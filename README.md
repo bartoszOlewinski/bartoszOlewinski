@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartoszOlewinski
 - 👀 I’m interested in backend software development, ANNs and game development
-- 🌱 I’m currently learning ROS2 Humble
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - bartosz.olewinski@gmail.com
 
