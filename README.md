@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a coop investigation game in Godot<br>👯 I’m looking to collaborate on Godot issues<br>🌱 I’m currently learning about Java Design Patterns<br>💬 Ask me about movies, I like them<br>⚡ Fun fact: I love raycasting and old game engines
+🔭 I’m currently working on a coop investigation game in Godot<br>👯 I’m looking to collaborate on Godot or SFML stuff<br>🌱 I’m currently learning about Java Design Patterns & Godot<br>💬 Ask me about movies, I like them<br>⚡ Fun fact: I love raycasting and old game engines
 
 
 ## 🌐 Socials:
