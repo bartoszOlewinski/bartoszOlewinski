@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on fixing my brain and some Godot side projectst<br>👯 I’m looking to collaborate on Godot or SFML stuff<br>🌱 I’m currently learning about Java Design Patterns, Spring & Godot<br>💬 Ask me about movies, I like them<br>⚡ Fun fact: I love raycasting and old game engines
+🔭 I’m currently working on fixing my brain and some Godot side projectst<br>👯 I’m looking to collaborate on Godot or SFML stuff<br>🌱 I’m currently learning about Java Design Patterns, Spring & Godot<br>💬 Ask me about the games, I like them<br>⚡ Fun fact: I love raycasting and old game engines
 
 
 ## 🌐 Socials:
